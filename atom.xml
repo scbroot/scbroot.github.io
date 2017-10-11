@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Seoulcityboy Blog</title>
+  
+  <subtitle>보다 편안함 삶을 살기 위해</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://seoulcityboy.net/"/>
+  <updated>2017-10-10T15:51:49.000Z</updated>
+  <id>http://seoulcityboy.net/</id>
+  
+  <author>
+    <name>seoulcityboy</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>code 인용</title>
+    <link href="http://seoulcityboy.net/2017/10/11/blog1010-2/"/>
+    <id>http://seoulcityboy.net/2017/10/11/blog1010-2/</id>
+    <published>2017-10-10T15:11:51.000Z</published>
+    <updated>2017-10-10T15:51:49.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="코드를-인용하는-플러그인"><a href="#코드를-인용하는-플러그인" class="headerlink" title="코드를 인용하는 플러그인"></a>코드를 인용하는 플러그인</h2><p>코드를 보는 플러그인</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> textView = <span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;</div><div class="line">    <span class="keyword">var</span> textVal = <span class="string">"Hello"</span>;</div><div class="line">    <span class="keyword">return</span> textVal;</div><div class="line">&#125;</div><div class="line"><span class="built_in">console</span>.log(<span class="string">"hello world"</span>);</div></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">&#123;% codeblock lang:javascript %&#125;</div><div class="line">var textView = function()&#123;</div><div class="line">    var textVal = &quot;Hello&quot;;</div><div class="line">    return textVal;</div><div class="line">&#125;</div><div class="line">console.log(&quot;hello world&quot;);</div><div class="line">&#123;% endcodeblock %&#125;</div></pre></td></tr></table></figure><p>코드를 테스트하는 플러그인</p><iframe scrolling="no" width="100%" height="300" src="//jsfiddle.net/pgtkkLsc/embedded/html,result/light" frameborder="0" allowfullscreen></iframe><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&#123;% jsfiddle pgtkkLsc html,result %&#125;</div></pre></td></tr></table></figure><h3 id="영상-플러그인"><a href="#영상-플러그인" class="headerlink" title="영상 플러그인"></a>영상 플러그인</h3><p>동영상을 삽입 하는 플러그인</p><div class="video-container"><iframe src="//www.youtube.com/embed/irNtyaNHq5A" frameborder="0" allowfullscreen></iframe></div><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&#123;% youtube irNtyaNHq5A %&#125;</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;코드를-인용하는-플러그인&quot;&gt;&lt;a href=&quot;#코드를-인용하는-플러그인&quot; class=&quot;headerlink&quot; title=&quot;코드를 인용하는 플러그인&quot;&gt;&lt;/a&gt;코드를 인용하는 플러그인&lt;/h2&gt;&lt;p&gt;코드를 보는 플러그인&lt;/p&gt;
+&lt;figure cl
+      
+    
+    </summary>
+    
+      <category term="blog" scheme="http://seoulcityboy.net/categories/blog/"/>
+    
+    
+      <category term="blog" scheme="http://seoulcityboy.net/tags/blog/"/>
+    
+      <category term="hexo" scheme="http://seoulcityboy.net/tags/hexo/"/>
+    
+      <category term="jsFiddle" scheme="http://seoulcityboy.net/tags/jsFiddle/"/>
+    
+      <category term="youtube" scheme="http://seoulcityboy.net/tags/youtube/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mkdown 문법</title>
+    <link href="http://seoulcityboy.net/2017/10/11/blog1010/"/>
+    <id>http://seoulcityboy.net/2017/10/11/blog1010/</id>
+    <published>2017-10-10T15:07:04.000Z</published>
+    <updated>2017-10-10T15:22:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>#Markdown(.md) 문법</p><ul><li><a href="#idTit">제목</a></li><li><a href="#idList">목록</a></li><li><a href="#idFont">글자모양</a></li><li><a href="#idTxt">인용문</a></li><li><a href="#idLink">링크</a></li><li><a href="#idImg">이미지</a></li><li><a href="#idLine">가로줄</a></li><li><a href="#idIable">표</a></li></ul><p><span id="idTit"></span></p><h2 id="제목"><a href="#제목" class="headerlink" title="제목"></a>제목</h2><h1 id="h1"><a href="#h1" class="headerlink" title="h1"></a>h1</h1><h2 id="h2"><a href="#h2" class="headerlink" title="h2"></a>h2</h2><h3 id="h3"><a href="#h3" class="headerlink" title="h3"></a>h3</h3><h4 id="h4"><a href="#h4" class="headerlink" title="h4"></a>h4</h4><h5 id="h5"><a href="#h5" class="headerlink" title="h5"></a>h5</h5><h6 id="h6"><a href="#h6" class="headerlink" title="h6"></a>h6</h6><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"># h1</div><div class="line">## h2</div><div class="line">### h3</div><div class="line">#### h4</div><div class="line">##### h5</div><div class="line">###### h6</div></pre></td></tr></table></figure><p><span id="idList"></span></p><h2 id="목록"><a href="#목록" class="headerlink" title="목록"></a>목록</h2><ul><li>순서없는 목록 1</li><li>순서없는 목록 2</li><li>순서없는 목록 3</li></ul><ol><li>순서있는 목록 1</li><li>순서있는 목록 2</li><li>순서있는 목록 3<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">* 순서없는 목록 1</div><div class="line">* 순서없는 목록 2</div><div class="line">* 순서없는 목록 3</div><div class="line"></div><div class="line">1. 순서있는 목록 1</div><div class="line">1. 순서있는 목록 2</div><div class="line">2. 순서있는 목록 3</div></pre></td></tr></table></figure></li></ol><p><span id="idLFont"></span></p><h2 id="글자모양"><a href="#글자모양" class="headerlink" title="글자모양"></a>글자모양</h2><p><strong>굵게</strong> 쓰거나 <strong>두껍게</strong> 쓰거나</p><p><em>기울게</em> 쓰면서 <em>기울게</em> 쓴다</p><p><del>취소</del> 한다<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">**굵게** 쓰거나 __두껍게__ 쓰거나</div><div class="line"></div><div class="line">*기울게* 쓰면서 _기울게_ 쓴다</div><div class="line"></div><div class="line">~~취소~~ 한다</div></pre></td></tr></table></figure></p><p><span id="idTxt"></span></p><h2 id="인용문"><a href="#인용문" class="headerlink" title="인용문"></a>인용문</h2><blockquote><p>인용문<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&gt; 인용</div></pre></td></tr></table></figure></p></blockquote><p><span id="idLink"></span></p><h2 id="링크"><a href="#링크" class="headerlink" title="링크"></a>링크</h2><p><a href="https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4" title="나무위키 마크다운 문법" target="_blank" rel="external">나무위키</a><br><a href="https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4" title="참조링크" target="_blank" rel="external">나무위키</a><br><a href="http://naver.com" target="_blank" rel="external">http://naver.com</a></p><blockquote><p>내부 앵커 사용시 임의 Tag를 생성하여 id를 추가하여 적용시킨다.<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">[나무위키](https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4 &quot;나무위키 마크다운 문법&quot;)</div><div class="line">[나무위키][1]</div><div class="line">&lt;http://naver.com&gt;</div><div class="line">[1]:https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4 &quot;참조링크&quot;</div></pre></td></tr></table></figure></p></blockquote><p><span id="idImg"></span></p><h2 id="이미지"><a href="#이미지" class="headerlink" title="이미지"></a>이미지</h2><p><img src="/css/images/thumb-default-small.png" alt="alt가 들어간다" title="title value"><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">![alt가 들어간다](/css/images/thumb-default-small.png &quot;title value&quot;)</div></pre></td></tr></table></figure></p><p><span id="idLine"></span></p><h2 id="가로줄"><a href="#가로줄" class="headerlink" title="가로줄"></a>가로줄</h2><hr><hr><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"></div><div class="line">***</div><div class="line"></div><div class="line">------------</div></pre></td></tr></table></figure><p><span id="idIable"></span></p><h2 id="표"><a href="#표" class="headerlink" title="표"></a>표</h2><table><thead><tr><th>TH 1</th><th style="text-align:right">TH 2</th></tr></thead><tbody><tr><td>TD 1</td><td style="text-align:right">TD 3</td></tr><tr><td>TD 2</td><td style="text-align:right">TD 4</td></tr></tbody></table><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">TH 1 | TH 2</div><div class="line">--- | ---:</div><div class="line">TD 1 | TD 3</div><div class="line">TD 2 | TD 4</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#Markdown(.md) 문법&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#idTit&quot;&gt;제목&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#idList&quot;&gt;목록&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#idFont&quot;&gt;글자모양&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a 
+      
+    
+    </summary>
+    
+      <category term="blog" scheme="http://seoulcityboy.net/categories/blog/"/>
+    
+    
+      <category term="blog" scheme="http://seoulcityboy.net/tags/blog/"/>
+    
+      <category term="hexo" scheme="http://seoulcityboy.net/tags/hexo/"/>
+    
+      <category term="markdown" scheme="http://seoulcityboy.net/tags/markdown/"/>
+    
+      <category term="guide" scheme="http://seoulcityboy.net/tags/guide/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>남산 북악 라이딩</title>
+    <link href="http://seoulcityboy.net/2017/10/10/20171010/"/>
+    <id>http://seoulcityboy.net/2017/10/10/20171010/</id>
+    <published>2017-10-10T07:12:52.000Z</published>
+    <updated>2017-10-10T09:37:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="남산-북악-라이딩"><a href="#남산-북악-라이딩" class="headerlink" title="남산 북악 라이딩"></a>남산 북악 라이딩</h1><iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/1222053743/embed/96337c53558c9a629e38cb96239b6c964ea23f92"></iframe><script src="/js/strava.js"></script><div class="strava"><img src="" class="stravaPhoto"><p class="stravaBox"><a href="" class="stravaLogo" target="_blank"></a><span class="stravaName"></span><span class="stravaDistance"></span><span class="stravaTime"></span><span class="stravaElevation"></span><span class="stravaAchievement"></span></p></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;남산-북악-라이딩&quot;&gt;&lt;a href=&quot;#남산-북악-라이딩&quot; class=&quot;headerlink&quot; title=&quot;남산 북악 라이딩&quot;&gt;&lt;/a&gt;남산 북악 라이딩&lt;/h1&gt;&lt;iframe height=&quot;405&quot; width=&quot;590&quot; frameborder=
+      
+    
+    </summary>
+    
+      <category term="Health" scheme="http://seoulcityboy.net/categories/Health/"/>
+    
+    
+      <category term="strava" scheme="http://seoulcityboy.net/tags/strava/"/>
+    
+      <category term="Health" scheme="http://seoulcityboy.net/tags/Health/"/>
+    
+      <category term="자전거" scheme="http://seoulcityboy.net/tags/%EC%9E%90%EC%A0%84%EA%B1%B0/"/>
+    
+      <category term="라이딩" scheme="http://seoulcityboy.net/tags/%EB%9D%BC%EC%9D%B4%EB%94%A9/"/>
+    
+      <category term="ride" scheme="http://seoulcityboy.net/tags/ride/"/>
+    
+      <category term="cycling" scheme="http://seoulcityboy.net/tags/cycling/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>단위를 k로 환산하기</title>
+    <link href="http://seoulcityboy.net/2017/10/10/web1010-2/"/>
+    <id>http://seoulcityboy.net/2017/10/10/web1010-2/</id>
+    <published>2017-10-10T06:54:18.000Z</published>
+    <updated>2017-10-10T07:32:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="이유"><a href="#이유" class="headerlink" title="이유"></a>이유</h2><p>Strava에서 운동한 거리을 JSON으로 받았는데<br>m로 되어 있어서 km 단위 환산 하고 싶었다.</p><h2 id="작성"><a href="#작성" class="headerlink" title="작성"></a>작성</h2><h4 id="초기"><a href="#초기" class="headerlink" title="초기"></a>초기</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">function distanceKilo(metres) &#123;</div><div class="line">    var metres = Number(metres);</div><div class="line">    var km = metres / 1000;</div><div class="line">    return km.toFixed(1);</div><div class="line">&#125;</div></pre></td></tr></table></figure><p>google에서 검색한 스크립트다.</p><h2 id="결과"><a href="#결과" class="headerlink" title="결과"></a>결과</h2><p>내가 원하는 정도의 스크립트 였다.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;이유&quot;&gt;&lt;a href=&quot;#이유&quot; class=&quot;headerlink&quot; title=&quot;이유&quot;&gt;&lt;/a&gt;이유&lt;/h2&gt;&lt;p&gt;Strava에서 운동한 거리을 JSON으로 받았는데&lt;br&gt;m로 되어 있어서 km 단위 환산 하고 싶었다.&lt;/p&gt;
+&lt;h2 id=
+      
+    
+    </summary>
+    
+      <category term="Web" scheme="http://seoulcityboy.net/categories/Web/"/>
+    
+      <category term="js" scheme="http://seoulcityboy.net/categories/Web/js/"/>
+    
+    
+      <category term="web" scheme="http://seoulcityboy.net/tags/web/"/>
+    
+      <category term="javascript" scheme="http://seoulcityboy.net/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>초를 날짜 HH:MM:SS 변환하기</title>
+    <link href="http://seoulcityboy.net/2017/10/10/web1010/"/>
+    <id>http://seoulcityboy.net/2017/10/10/web1010/</id>
+    <published>2017-10-10T06:39:02.000Z</published>
+    <updated>2017-10-10T07:32:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="이유"><a href="#이유" class="headerlink" title="이유"></a>이유</h2><p>Strava에서 운동한 시간을 JSON으로 받았는데<br>초로 되어 있어서 HH:MM:SS 타입으로 변환하여 표기 하고 싶었다.</p><h2 id="작성"><a href="#작성" class="headerlink" title="작성"></a>작성</h2><h4 id="초기"><a href="#초기" class="headerlink" title="초기"></a>초기</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">function secTime(seconds) &#123;</div><div class="line"></div><div class="line">    var hour = parseInt(seconds/3600);</div><div class="line">    var min = parseInt((seconds%3600)/60);</div><div class="line">    var sec = seconds%60;</div><div class="line"></div><div class="line">    return hour+&quot;:&quot;+min+&quot;:&quot; + sec</div><div class="line"></div><div class="line">&#125;</div></pre></td></tr></table></figure><p>표기된 값을 보니 4:7:3 이런식으로 표기 되었다.<br>자리수가 두자리가 표기 되어야 할 것 같았다.</p><h4 id="개선사항"><a href="#개선사항" class="headerlink" title="개선사항"></a>개선사항</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div></pre></td><td class="code"><pre><div class="line">function secTime(seconds) &#123;</div><div class="line"></div><div class="line">    var hour = parseInt(seconds/3600);</div><div class="line">    var min = parseInt((seconds%3600)/60);</div><div class="line">    var sec = seconds%60;</div><div class="line"></div><div class="line">    if (min &lt; 10) min = &quot;0&quot;+min;</div><div class="line">    if (sec &lt; 10) sec = &quot;0&quot;+sec;</div><div class="line"></div><div class="line">    return hour+&quot;:&quot;+min+&quot;:&quot; + sec</div><div class="line"></div><div class="line">&#125;</div></pre></td></tr></table></figure><h2 id="결과"><a href="#결과" class="headerlink" title="결과"></a>결과</h2><p>내가 원하는 표현으로 되었다.</p><p>분과 초는 2자리로 처리되었다<br>굳이 시간마저 2자리수로 표기 할 이유가 없었다.<br>날짜 처리는 안했다.<br>운동을 하루를 넘길 것 같지 않았다.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;이유&quot;&gt;&lt;a href=&quot;#이유&quot; class=&quot;headerlink&quot; title=&quot;이유&quot;&gt;&lt;/a&gt;이유&lt;/h2&gt;&lt;p&gt;Strava에서 운동한 시간을 JSON으로 받았는데&lt;br&gt;초로 되어 있어서 HH:MM:SS 타입으로 변환하여 표기 하고 싶었다
+      
+    
+    </summary>
+    
+      <category term="Web" scheme="http://seoulcityboy.net/categories/Web/"/>
+    
+      <category term="js" scheme="http://seoulcityboy.net/categories/Web/js/"/>
+    
+    
+      <category term="web" scheme="http://seoulcityboy.net/tags/web/"/>
+    
+      <category term="javascript" scheme="http://seoulcityboy.net/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>남산 북악 라이딩</title>
+    <link href="http://seoulcityboy.net/2017/10/09/20171009/"/>
+    <id>http://seoulcityboy.net/2017/10/09/20171009/</id>
+    <published>2017-10-08T15:54:35.000Z</published>
+    <updated>2017-10-10T09:37:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/js/strava.js"></script><div class="strava"><img src="" class="stravaPhoto"><p class="stravaBox"><a href="" class="stravaLogo" target="_blank"></a><span class="stravaName"></span><span class="stravaDistance"></span><span class="stravaTime"></span><span class="stravaElevation"></span><span class="stravaAchievement"></span></p></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;script src=&quot;/js/strava.js&quot;&gt;&lt;/script&gt;
+
+&lt;div class=&quot;strava&quot;&gt;&lt;img src=&quot;&quot; class=&quot;stravaPhoto&quot;&gt;&lt;p class=&quot;stravaBox&quot;&gt;&lt;a href=&quot;&quot; class=&quot;stravaLogo
+      
+    
+    </summary>
+    
+      <category term="Health" scheme="http://seoulcityboy.net/categories/Health/"/>
+    
+    
+      <category term="strava" scheme="http://seoulcityboy.net/tags/strava/"/>
+    
+      <category term="Health" scheme="http://seoulcityboy.net/tags/Health/"/>
+    
+      <category term="자전거" scheme="http://seoulcityboy.net/tags/%EC%9E%90%EC%A0%84%EA%B1%B0/"/>
+    
+      <category term="라이딩" scheme="http://seoulcityboy.net/tags/%EB%9D%BC%EC%9D%B4%EB%94%A9/"/>
+    
+      <category term="ride" scheme="http://seoulcityboy.net/tags/ride/"/>
+    
+      <category term="cycling" scheme="http://seoulcityboy.net/tags/cycling/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://seoulcityboy.net/2017/09/27/hello-world/"/>
+    <id>http://seoulcityboy.net/2017/09/27/hello-world/</id>
+    <published>2017-09-27T10:26:06.000Z</published>
+    <updated>2017-10-10T09:37:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
