@@ -8,9 +8,39 @@
 
     <url>
         <loc>http://seoulcityboy.net/2017/10/14/new1014/</loc>
-        <lastmod>2017-10-13T15:54:41.000Z</lastmod>
+        <lastmod>2017-10-16T04:12:21.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>http://seoulcityboy.net/images/20171014/img01.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>http://seoulcityboy.net/images/20171014/img02.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>http://seoulcityboy.net/images/20171014/img03.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>http://seoulcityboy.net/images/20171014/img04.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>http://seoulcityboy.net/images/20171014/img05.jpg</image:loc>
+
+        </image:image>
 
     </url>
 
