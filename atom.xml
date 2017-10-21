@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://seoulcityboy.net/"/>
-  <updated>2017-10-16T04:16:11.000Z</updated>
+  <updated>2017-10-21T17:12:33.000Z</updated>
   <id>http://seoulcityboy.net/</id>
   
   <author>
@@ -15,6 +15,77 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>카메라 앱</title>
+    <link href="http://seoulcityboy.net/2017/10/22/hobby1022/"/>
+    <id>http://seoulcityboy.net/2017/10/22/hobby1022/</id>
+    <published>2017-10-21T16:53:07.000Z</published>
+    <updated>2017-10-21T17:12:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>디자털 시대에 아날로그 감성을 느껴보라는 듯 만든 앱<br>24장 제한 되어 있으며 24장을 찍은 후 24시간 사용이 불가</p><p>24장을 채워지면 72시간 인화 시간을 가지게 된다</p><p>뷰파인더로 크기에 화면으로 사진을 찍어야하고<br>1회용 필름 카메라 느낌을 최대한 살린 UI로 구성 되어있다.</p><p>결과물은 1회용 카메라로 찍은 느껴지게 필터가 들어가 있으며<br>포커스도 중앙에 고정되어있다.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;디자털 시대에 아날로그 감성을 느껴보라는 듯 만든 앱&lt;br&gt;24장 제한 되어 있으며 24장을 찍은 후 24시간 사용이 불가&lt;/p&gt;
+&lt;p&gt;24장을 채워지면 72시간 인화 시간을 가지게 된다&lt;/p&gt;
+&lt;p&gt;뷰파인더로 크기에 화면으로 사진을 찍어야하고&lt;
+      
+    
+    </summary>
+    
+      <category term="hobby" scheme="http://seoulcityboy.net/categories/hobby/"/>
+    
+    
+      <category term="app" scheme="http://seoulcityboy.net/tags/app/"/>
+    
+      <category term="아이폰 앱" scheme="http://seoulcityboy.net/tags/%EC%95%84%EC%9D%B4%ED%8F%B0-%EC%95%B1/"/>
+    
+      <category term="카매라 앱" scheme="http://seoulcityboy.net/tags/%EC%B9%B4%EB%A7%A4%EB%9D%BC-%EC%95%B1/"/>
+    
+      <category term="구닥" scheme="http://seoulcityboy.net/tags/%EA%B5%AC%EB%8B%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>동부 3고개(벗,서,중)</title>
+    <link href="http://seoulcityboy.net/2017/10/22/20171022/"/>
+    <id>http://seoulcityboy.net/2017/10/22/20171022/</id>
+    <published>2017-10-21T16:10:21.000Z</published>
+    <updated>2017-10-21T16:38:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="동부-3고개"><a href="#동부-3고개" class="headerlink" title="동부 3고개"></a>동부 3고개</h2><p><img src="/images/imo/png/1.png"></p><script src="/js/strava.js"></script><div class="strava"><img src="" class="stravaPhoto"><p class="stravaBox"><a href="" class="stravaLogo" target="_blank"></a><span class="stravaName"></span><span class="stravaDistance"></span><span class="stravaTime"></span><span class="stravaElevation"></span><span class="stravaAchievement"></span></p></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;동부-3고개&quot;&gt;&lt;a href=&quot;#동부-3고개&quot; class=&quot;headerlink&quot; title=&quot;동부 3고개&quot;&gt;&lt;/a&gt;동부 3고개&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/images/imo/png/1.png&quot;&gt;&lt;/p&gt;
+&lt;script src=&quot;/js
+      
+    
+    </summary>
+    
+      <category term="Health" scheme="http://seoulcityboy.net/categories/Health/"/>
+    
+    
+      <category term="strava" scheme="http://seoulcityboy.net/tags/strava/"/>
+    
+      <category term="Health" scheme="http://seoulcityboy.net/tags/Health/"/>
+    
+      <category term="자전거" scheme="http://seoulcityboy.net/tags/%EC%9E%90%EC%A0%84%EA%B1%B0/"/>
+    
+      <category term="라이딩" scheme="http://seoulcityboy.net/tags/%EB%9D%BC%EC%9D%B4%EB%94%A9/"/>
+    
+      <category term="ride" scheme="http://seoulcityboy.net/tags/ride/"/>
+    
+      <category term="cycling" scheme="http://seoulcityboy.net/tags/cycling/"/>
+    
+      <category term="동부 3고개" scheme="http://seoulcityboy.net/tags/%EB%8F%99%EB%B6%80-3%EA%B3%A0%EA%B0%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>Raspberry pi 구입</title>
@@ -71,9 +142,9 @@
       <category term="blog" scheme="http://seoulcityboy.net/categories/blog/"/>
     
     
-      <category term="hexo" scheme="http://seoulcityboy.net/tags/hexo/"/>
-    
       <category term="blog" scheme="http://seoulcityboy.net/tags/blog/"/>
+    
+      <category term="hexo" scheme="http://seoulcityboy.net/tags/hexo/"/>
     
       <category term="jsFiddle" scheme="http://seoulcityboy.net/tags/jsFiddle/"/>
     
@@ -107,13 +178,13 @@
       <category term="blog" scheme="http://seoulcityboy.net/categories/blog/"/>
     
     
+      <category term="blog" scheme="http://seoulcityboy.net/tags/blog/"/>
+    
       <category term="hexo" scheme="http://seoulcityboy.net/tags/hexo/"/>
     
       <category term="markdown" scheme="http://seoulcityboy.net/tags/markdown/"/>
     
       <category term="guide" scheme="http://seoulcityboy.net/tags/guide/"/>
-    
-      <category term="blog" scheme="http://seoulcityboy.net/tags/blog/"/>
     
   </entry>
   

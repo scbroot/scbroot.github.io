@@ -21,13 +21,6 @@
     </url>
 
     <url>
-        <loc>http://seoulcityboy.net/categories/Health/</loc>
-        <lastmod>2017-10-10T09:37:01.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://seoulcityboy.net/categories/blog/</loc>
         <lastmod>2017-10-10T15:51:49.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -35,15 +28,22 @@
     </url>
 
     <url>
-        <loc>http://seoulcityboy.net/categories/hobby/</loc>
+        <loc>http://seoulcityboy.net/categories/hobby/Raspberry/</loc>
         <lastmod>2017-10-16T04:16:11.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://seoulcityboy.net/categories/hobby/Raspberry/</loc>
-        <lastmod>2017-10-16T04:16:11.000Z</lastmod>
+        <loc>http://seoulcityboy.net/categories/Health/</loc>
+        <lastmod>2017-10-21T16:38:54.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://seoulcityboy.net/categories/hobby/</loc>
+        <lastmod>2017-10-21T17:12:33.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
