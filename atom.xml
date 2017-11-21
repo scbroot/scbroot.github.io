@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://seoulcityboy.net/"/>
-  <updated>2017-10-31T15:05:19.000Z</updated>
+  <updated>2017-11-21T07:40:56.000Z</updated>
   <id>http://seoulcityboy.net/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MS Onenote Onetastic</title>
+    <link href="http://seoulcityboy.net/2017/11/21/web1121/"/>
+    <id>http://seoulcityboy.net/2017/11/21/web1121/</id>
+    <published>2017-11-21T06:56:54.000Z</published>
+    <updated>2017-11-21T07:40:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Onetastic"><a href="#Onetastic" class="headerlink" title="Onetastic"></a>Onetastic</h2><p>회사 업무용 노트 프로그램으로 <strong>Onenote</strong>를 이용 중 이다.<br>업무용 PC에 MS office가 설치 되어있어 별도 설치 없이 사용 중 이다.<br>물론 에버노트를 사용 할 수 있지만 무료버전 사용시 기기 갯수 제한 및 사용 용량에 있어 불편이 있을 것 같아 사용하지 않는다.</p><p>단순 업무용 메모장으로 사용하던 차에 달력기능 없을까 해서 찾아봤는데<br>onetastic이란 플러그인 검색 되었다.<br>기능은… 매크로 모음이다. 매크로 변태들의 작품이다.<br>많은 매크로가 있어 필요한 것만 설치 해서 사용하면 된다.</p><p>많은 기능이 있지만 윈도우 상태에서 사용이 가능하다.<br>Mac에서는 사용 할 수 없다.</p><p><a href="https://getonetastic.com" target="_blank" rel="external">https://getonetastic.com</a></p><p>업무용 PC와 윈도우 환경에서 유용하게 사용 할 것 같다.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Onetastic&quot;&gt;&lt;a href=&quot;#Onetastic&quot; class=&quot;headerlink&quot; title=&quot;Onetastic&quot;&gt;&lt;/a&gt;Onetastic&lt;/h2&gt;&lt;p&gt;회사 업무용 노트 프로그램으로 &lt;strong&gt;Onenote&lt;/strong&gt;를
+      
+    
+    </summary>
+    
+      <category term="Web" scheme="http://seoulcityboy.net/categories/Web/"/>
+    
+    
+      <category term="web" scheme="http://seoulcityboy.net/tags/web/"/>
+    
+      <category term="note" scheme="http://seoulcityboy.net/tags/note/"/>
+    
+  </entry>
   
   <entry>
     <title>네이버 프렌즈 스피커</title>

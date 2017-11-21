@@ -2,13 +2,6 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://seoulcityboy.net/tags/web/</loc>
-        <lastmod>2017-10-10T07:32:30.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://seoulcityboy.net/tags/javascript/</loc>
         <lastmod>2017-10-10T07:32:30.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -186,6 +179,20 @@
     <url>
         <loc>http://seoulcityboy.net/tags/%EB%84%A4%EC%9D%B4%EB%B2%84-%ED%94%84%EB%A0%8C%EC%A6%88-%EC%8A%A4%ED%94%BC%EC%BB%A4/</loc>
         <lastmod>2017-10-31T15:05:19.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://seoulcityboy.net/tags/web/</loc>
+        <lastmod>2017-11-21T07:40:56.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://seoulcityboy.net/tags/note/</loc>
+        <lastmod>2017-11-21T07:40:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
