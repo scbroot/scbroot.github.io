@@ -35,15 +35,15 @@
     </url>
 
     <url>
-        <loc>http://seoulcityboy.net/categories/hobby/</loc>
-        <lastmod>2017-10-31T15:05:19.000Z</lastmod>
+        <loc>http://seoulcityboy.net/categories/Web/</loc>
+        <lastmod>2017-11-21T07:40:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://seoulcityboy.net/categories/Web/</loc>
-        <lastmod>2017-11-21T07:40:56.000Z</lastmod>
+        <loc>http://seoulcityboy.net/categories/hobby/</loc>
+        <lastmod>2017-11-29T08:26:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

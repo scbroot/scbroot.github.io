@@ -7,6 +7,56 @@
     </url>
 
     <url>
+        <loc>http://seoulcityboy.net/2017/11/29/hobby1129/</loc>
+        <lastmod>2017-11-29T08:26:44.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>http://seoulcityboy.net/images/20171129/img01.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>http://seoulcityboy.net/images/20171129/img02.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>http://seoulcityboy.net/images/20171129/img03.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>http://seoulcityboy.net/images/20171129/img04.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>http://seoulcityboy.net/images/20171129/img05.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>http://seoulcityboy.net/images/20171129/img06.jpg</image:loc>
+
+        </image:image>
+
+        <image:image>
+
+            <image:loc>http://seoulcityboy.net/images/20171129/img07.jpg</image:loc>
+
+        </image:image>
+
+    </url>
+
+    <url>
         <loc>http://seoulcityboy.net/2017/11/21/web1121/</loc>
         <lastmod>2017-11-21T07:40:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -203,7 +253,7 @@
     </url>
 
     <url>
-        <loc>http://seoulcityboy.net/2017/10/10/20171010/</loc>
+        <loc>http://seoulcityboy.net/2017/09/27/hello-world/</loc>
         <lastmod>2017-10-10T09:37:01.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -211,7 +261,7 @@
     </url>
 
     <url>
-        <loc>http://seoulcityboy.net/2017/09/27/hello-world/</loc>
+        <loc>http://seoulcityboy.net/2017/10/10/20171010/</loc>
         <lastmod>2017-10-10T09:37:01.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
